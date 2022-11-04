@@ -1,6 +1,6 @@
 # Chrome File Icon
 
-Google Chrome can be associated with multiple file extensions, such as HTML, PDF and even DOCX, PPTX and XLSX, if using the [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) extension.
+[Google Chrome](https://chrome.google.com) can be associated with multiple file extensions, such as HTML, PDF and even DOCX, PPTX and XLSX, if using the [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) extension.
 
 The problem is, that all of these files get the default Chrome icon.
 In certain situations, such as on the desktop, this can make it difficult to distinguish what is a file, and what is the browser.
