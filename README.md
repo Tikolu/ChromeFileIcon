@@ -1,4 +1,5 @@
 # Chrome File Icon
+<sup>A project by [Tikolu](https://tikolu.net)</sup>
 
 [Google Chrome](https://chrome.google.com) can be associated with multiple file extensions, such as HTML, PDF and even DOCX, PPTX and XLSX, if using the [Office Editing for Docs, Sheets & Slides](https://chrome.google.com/webstore/detail/office-editing-for-docs-s/gbkeegbaiigmenfmjfclcdgdpimamgkj) extension.
 
@@ -25,3 +26,6 @@ Download the files from [here](https://github.com/Tikolu/ChromeFileIcon/archive/
 The script will copy the icon file to a permanent location, and update the necessary registry keys.
 After installation, a restart of explorer (the Windows UI) is required for the icons to be visible.
 The script can also perform this action.
+
+## Feedback, questions, problems
+All can be reported to [Tikolu](https://tikolu.net).
