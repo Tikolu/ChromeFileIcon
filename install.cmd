@@ -36,7 +36,8 @@ ECHO Press any key to install icon...
 PAUSE>NUL
 ECHO F | XCOPY /E /I /Y icon.ico "%programfiles%\Tikolu\IconExtensions\chrome.ico">NUL
 REG ADD HKEY_CLASSES_ROOT\Applications\chrome.exe\DefaultIcon /ve /t REG_SZ /d "C:\Program Files\Tikolu\IconExtensions\chrome.ico" /f
-REG ADD HKEY_CLASSES_ROOT\ChromeHTML\DefaultIcon /ve /t REG_SZ /d "C:\Program Files\Tikolu\IconExtensions\chrome.ico" /fs
+REG ADD HKEY_CLASSES_ROOT\ChromeHTML\DefaultIcon /ve /t REG_SZ /d "C:\Program Files\Tikolu\IconExtensions\chrome.ico" /f
+
 ECHO.
 IF %errorLevel% == 0 ECHO Icon installed!
 ECHO.
